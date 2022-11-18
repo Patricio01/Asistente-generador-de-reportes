@@ -28,3 +28,25 @@ Una vez completada la configuración previa de este para hacer uso del sistema, 
 Posterior a inicializar nuestro servidor, este nos retornará un mensaje que se realizó de forma correcta entregándonos el "link" con el cual podremos hacer uso de este. "Starting Laravel development server: http://127.0.0.1:8000"
 A continuación copiamos el enlace en nuestro navegador y podremos trabajar con nuestro generador de reportes.
 
+**Funcionalidades**
+-Exportación de datos XLS,JSON,PDF
+-Filtro Con Condiciones
+-Guardar Consultas
+-Restaurar Consultas
+-Selección de tablas y columnas
+
+**Ejemplos** 
+**Selección de tablas:**
+![1](https://user-images.githubusercontent.com/22040618/202715608-8795cb8d-7e20-4ff9-9d55-321e4941a996.PNG)
+
+**Relaciones:**
+![2](https://user-images.githubusercontent.com/22040618/202715962-e2343104-4cb4-4c70-83af-6fa061472c29.PNG)
+
+**Selección de campos disponibles:**
+![3](https://user-images.githubusercontent.com/22040618/202716198-87b3cfa5-ed3f-4dd6-bc23-c139c60a0050.PNG)
+
+**Funcionalidades Varias:**
+![4](https://user-images.githubusercontent.com/22040618/202716306-38a5e2c8-2619-4a29-9142-8fcd968da2a8.PNG)
+
+
+
